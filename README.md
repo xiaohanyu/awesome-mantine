@@ -50,6 +50,8 @@ libraries and resources.
 
 ### Open source
 
+- [docmost](https://docmost.com/) - An open-source alternative to Confluence and
+  Notion.
 - [homarr](https://github.com/ajnart/homarr) - A simple, yet powerful dashboard
   for your server
 - [KamousAI](https://github.com/Ali-Hussein-dev/KamousAI) - Language Learning
