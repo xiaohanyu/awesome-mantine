@@ -77,6 +77,7 @@ This project contains a curated list of awesome mantine documentations, librarie
 - [Valla](https://www.valla.app/) - A mac (electron) app for reading epub files.
 - [Vouchley](https://www.vouchley.com/) - The review platform for freelancers
 - [Workout](https://workout.lol/) - The easiest way to create a workout routine
+- [Inspotype](https://inspotype.com) - Create new brands in a blink
 
 ## Companies and Products Using Mantine
 
