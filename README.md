@@ -8,28 +8,27 @@ This project contains a curated list of awesome mantine documentations, librarie
 
 ## Contents
 
-- [Official Links](#official-links)
-  - [mantine](#mantine)
-- [Libraries](#libraries)
-- [Boilerplates](#boilerplates)
-- [Showcase](#showcase)
-  - [Open source](#open-source)
-  - [Non open source](#non-open-source)
-- [Videos](#videos)
+1. [Official Links](#official-links)
+2. [Libraries](#libraries)
+3. [Boilerplates](#boilerplates)
+4. [Showcase](#showcase)
+   - [Open Source](#open-source)
+   - [Non Open Source](#non-open-source)
+6. [Companies and Products Using Mantine](#companies-and-products-using-mantine)
+7. [Miscellaneous](#miscellaneous)
+8. [Videos](#videos)
 
 ## Official Links
 
-### Mantine
-
-- [Mantine](https://mantine.dev) - Official website
-- [Mantine UI](https://ui.mantine.dev/) - Official samples
-- [Mantine Flagpack](https://mantinedev.github.io/mantine-flagpack/) - 4x3 flags as React components, built of top of flagpack, tree shakable
+- **[Mantine](https://mantine.dev)** - Official website
+- **[Mantine UI](https://ui.mantine.dev/)** - Official samples
 
 ## Libraries
 
 -  [Mantine ContextMenu](https://icflorescu.github.io/mantine-contextmenu/) - The context menu for your enhanced Mantine applications
 -  [Mantine Data Grid](https://kuechlin.github.io/mantine-data-grid/) - Another yet DataTable Grd in alpha stage
 -  [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/) - The table component for your data-rich Mantine applications
+-  [Mantine Flagpack](https://mantinedev.github.io/mantine-flagpack/) - 4x3 flags as React components, built of top of flagpack, tree shakable
 -  [Mantine Flip](https://gfazioli.github.io/mantine-flip/) - A Mantine component that flips the content of the component when hovered over.
 -  [Mantine Marquee](https://gfazioli.github.io/mantine-marquee) - A Mantine component that allows you to create a marquee effect with a list of elements.
 -  [Mantine Parallax](https://gfazioli.github.io/mantine-parallax/) - A Mantine component that allows you to create the famous Apple TV parallax effect
@@ -79,7 +78,12 @@ This project contains a curated list of awesome mantine documentations, librarie
 - [Vouchley](https://www.vouchley.com/) - The review platform for freelancers
 - [Workout](https://workout.lol/) - The easiest way to create a workout routine
 
-### Miscs
+## Companies and Products Using Mantine
+
+- [EasyWP](https://easywp.com) - Managed WordPress in minutes
+- [WP Bones](https://wpbones.com) - WP Bones allows for WordPress plugins with Laravel-like features
+
+### Miscellaneous
 
 - [react-data-fetching](https://github.com/KevinVandy/react-data-fetching) - A repository to showcase different ways to fetch data in React.
 
