@@ -33,6 +33,9 @@ libraries and resources.
   table component for your data-rich Mantine applications
 - [Mantine React Table](https://www.mantine-react-table.com/) - A fully featured
   Mantine V5 implementation of TanStack React Table V8
+- [Mantine Scheduler](https://github.com/jadamita/mantine-scheduler) - A
+  powerful and flexible React package that allows you to easily integrate
+  scheduling functionality into your Mantine-based applications.
 
 ## Boilerplates
 
