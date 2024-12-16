@@ -81,6 +81,8 @@ libraries and resources.
   customizable experience
 - [ryot](https://github.com/ignisda/ryot) - A self hosted platform for tracking
   various facets of your life - media, fitness etc
+- [Titanium](https://www.titanium.dev/) - Landing page blocks
+  using Mantine
 - [UptimeFlare](https://github.com/lyc8503/UptimeFlare) - Free and serverless
   uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
 
@@ -92,8 +94,6 @@ libraries and resources.
   style.
 - [Converting](https://converting.to/) - A web service to file conversions
 - [daily.place](https://daily.place/) - Track your daily tasks for free
-- [Mantine Landing Page Blocks](https://www.titanium.dev/) - Landing page blocks
-  using Mantine
 - [PPResume](http://ppresume.com/) - A LaTeX based resume builder
 - [Valla](https://www.valla.app/) - A mac (electron) app for reading epub files.
 - [Vouchley](https://www.vouchley.com/) - The review platform for freelancers
