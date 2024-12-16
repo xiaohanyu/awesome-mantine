@@ -80,8 +80,8 @@ This project contains a curated list of awesome mantine documentations, librarie
 
 ## Companies and Products Using Mantine
 
--    **[EasyWP](https://easywp.com)** - Managed WordPress in minutes
--    **[WP Bones](https://wpbones.com)** - WP Bones allows for WordPress plugins with Laravel-like features
+- [EasyWP](https://easywp.com) - Managed WordPress in minutes
+- [WP Bones](https://wpbones.com) - WP Bones allows for WordPress plugins with Laravel-like features
 
 ### Miscellaneous
 
