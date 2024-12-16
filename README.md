@@ -41,13 +41,22 @@ libraries and resources.
 
 - [mantinedev/gatsby-template](https://github.com/mantinedev/gatsby-template) -
   Mantine + Gatsby.js template
-- [mantinedev/next-app-template](https://github.com/mantinedev/next-app-template) - Mantine + Next.js app router template (7.0+)
-- [mantinedev/next-page-template](https://github.com/mantinedev/next-pages-template) - Mantine + Next.js pages router template
-- [mantinedev/redwood-template](https://github.com/mantinedev/redwood-template) - Mantine + RedwoodJS template
-- [mantinedev/remix-template](https://github.com/mantinedev/remix-template) - Remix + Mantine template
-- [mantinedev/vite-template](https://github.com/mantinedev/vite-template) - Mantine + Vite template
+- [mantinedev/next-app-template](https://github.com/mantinedev/next-app-template)
+- Mantine + Next.js app router template (7.0+)
+- [mantinedev/next-page-template](https://github.com/mantinedev/next-pages-template)
+- Mantine + Next.js pages router template
+- [mantinedev/redwood-template](https://github.com/mantinedev/redwood-template)
+- Mantine + RedwoodJS template
+- [mantinedev/remix-template](https://github.com/mantinedev/remix-template) -
+  Remix + Mantine template
+- [mantinedev/vite-template](https://github.com/mantinedev/vite-template) -
+  Mantine + Vite template
+- [Blitzship](https://blitz-ship.com/) - The code boilerplate for launching
+  your SaaS on AWS.
 - [ship](https://github.com/paralect/ship) - A toolkit for makers to ship better
   products faster 🚀
+- [zauberstack](https://zauberstack.com/) - A React.js SaaS Starter Kit to build
+  your MVP faster
 
 ## Showcase
 
@@ -61,17 +70,39 @@ libraries and resources.
   Tools, uplevel your language skills with AI
 - [local-weather](https://localwx.vercel.app/) - A weather app using Next.js,
   Mantine, Edge API Routes, and the OpenWeatherMap and Google Maps API's
-- [mantine-analytics-dashboard](https://github.com/design-sparx/mantine-analytics-dashboard) - A free, open source, Next 14, React 18 admin dashboard template created using Mantine 7
+- [mantine-analytics-dashboard](https://github.com/design-sparx/mantine-analytics-dashboard)
+- A free, open source, Next 14, React 18 admin dashboard template created using
+  Mantine 7
+- [mantine-parallax](https://gfazioli.github.io/mantine-parallax/) - A Mantine
+  component that allows you to create the famous Apple TV parallax effect
+- [MantineHub](https://mantinehub.com/) - A tool to easily add modern,
+  pre-configured themes (inspired by Shadcn) to your Mantine projects
 - [moonlit](https://github.com/bgwastu/moonlit) - React music player with
   customizable experience
 - [ryot](https://github.com/ignisda/ryot) - A self hosted platform for tracking
   various facets of your life - media, fitness etc
+- [UptimeFlare](https://github.com/lyc8503/UptimeFlare) - Free and serverless
+  uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
 
 ### Non open source
 
+- [ahead.hiv.gov](https://ahead.hiv.gov/) - a government site aiming to provide easy
+  access to Ending the HIV Epidemic data to the public.
+- [Birthdai](https://birthdai.app) - Create birthday song with personal musical
+  style.
 - [Converting](https://converting.to/) - A web service to file conversions
+- [daily.place](https://daily.place/) - Track your daily tasks for free
+- [Mantine Landing Page Blocks](https://www.titanium.dev/) - Landing page blocks
+  using Mantine
 - [PPResume](http://ppresume.com/) - A LaTeX based resume builder
+- [Valla](https://www.valla.app/) - A mac (electron) app for reading epub files.
 - [Vouchley](https://www.vouchley.com/) - The review platform for freelancers
+- [Workout](https://workout.lol/) - The easiest way to create a workout routine
+
+### Miscs
+
+- [react-data-fetching](https://github.com/KevinVandy/react-data-fetching) - A
+  repository to showcase different ways to fetch data in React.
 
 ## Videos
 
