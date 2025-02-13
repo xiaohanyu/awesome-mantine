@@ -50,6 +50,7 @@ This project contains a curated list of awesome mantine documentations, librarie
 - [Blitzship](https://blitz-ship.com/) - The code boilerplate for launching your SaaS on AWS.
 - [ship](https://github.com/paralect/ship) - A toolkit for makers to ship better products faster 🚀
 - [zauberstack](https://zauberstack.com/) - A React.js SaaS Starter Kit to build your MVP faster
+- [gfazioli/next-app-nextra-template](https://github.com/gfazioli/next-app-nextra-template) - Mantine + Next.js app router + Nextra 4 template (7.0+) + [Live Demo](https://next-app-nextra-template.vercel.app/)
 
 ## Showcase
 
