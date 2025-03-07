@@ -52,6 +52,7 @@ This project contains a curated list of awesome mantine documentations, librarie
 - [ship](https://github.com/paralect/ship) - A toolkit for makers to ship better products faster 🚀
 - [zauberstack](https://zauberstack.com/) - A React.js SaaS Starter Kit to build your MVP faster
 - [gfazioli/next-app-nextra-template](https://github.com/gfazioli/next-app-nextra-template) - Mantine + Next.js app router + Nextra 4 template (7.0+) + [Live Demo](https://next-app-nextra-template.vercel.app/)
+- [mantine-tanstack-start-template](https://github.com/icflorescu/mantine-tanstack-start-template/) - The easiest way to initialize a new project with Mantine and [TanStack Start](https://tanstack.com/start)
 
 ## Showcase
 
