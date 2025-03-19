@@ -39,6 +39,7 @@ This project contains a curated list of awesome mantine documentations, librarie
 -  [Mantine Spinner](https://gfazioli.github.io/mantine-spinner/) - A Mantine React component for an enhanced loading state.
 -  [Mantine Scheduler](https://github.com/jadamita/mantine-scheduler) - A powerful and flexible React package that allows you to easily integrate scheduling functionality into your Mantine-based applications.
 -  [Mantine Split Pane](https://gfazioli.github.io/mantine-split-pane/) - A Mantine component that manages split panes allows users to divide and resize content areas within a layout efficiently
+-  [Mantine Text Animate](https://gfazioli.github.io/mantine-text-animate/) - A Mantine component that allows you to animate text with various effects
   
 ## Boilerplates
 
