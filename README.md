@@ -33,6 +33,7 @@ This project contains a curated list of awesome mantine documentations, librarie
 -  [Mantine Marquee](https://gfazioli.github.io/mantine-marquee) - A Mantine component that allows you to create a marquee effect with a list of elements.
 -  [Mantine Onboarding Tour](https://gfazioli.github.io/mantine-onboarding-tour/) - A Mantine component enables you to create a onboarding-tour effect using overlays, popovers, and onboarding tours, which enhances element visibility and interactivity.
 -  [Mantine Parallax](https://gfazioli.github.io/mantine-parallax/) - A Mantine component that allows you to create the famous Apple TV parallax effect
+-  [Mantine Picker](https://gfazioli.github.io/mantine-picker/) - A Mantine component that allows you to create a picker effect with a list of elements
 -  [Mantine React Table](https://www.mantine-react-table.com/) - A fully featured Mantine V5 implementation of TanStack React Table V8
 -  [Mantine Reflection](https://gfazioli.github.io/mantine-reflection/) - A Mantine component that adds a reflection effect to its children.
 -  [Mantine Rings Progress](https://gfazioli.github.io/mantine-rings-progress/) - A Mantine component that replicates the progress rings of Apple Watch.
