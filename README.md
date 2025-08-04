@@ -29,8 +29,9 @@ This project contains a curated list of awesome mantine documentations, librarie
 -  [Mantine Data Grid](https://kuechlin.github.io/mantine-data-grid/) - Another yet DataTable Grd in alpha stage
 -  [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/) - The table component for your data-rich Mantine applications
 -  [Mantine Flagpack](https://mantinedev.github.io/mantine-flagpack/) - 4x3 flags as React components, built of top of flagpack, tree shakable
+-  [Mantine Clock](https://gfazioli.github.io/mantine-clock/) - React Clock components and hooks for Mantine with timezone support, countdown timers, customization options, and real-time updates.
 -  [Mantine Flip](https://gfazioli.github.io/mantine-flip/) - A Mantine component that flips the content of the component when hovered over.
--  [Mantine List View Table](https://gfazioli.github.io/mantine-list-view-table/) - _A Mantine component adds a Finder-style List View to the Mantine Table, allowing for column reordering and resizing._
+-  [Mantine List View Table](https://gfazioli.github.io/mantine-list-view-table/) - A Mantine component adds a Finder-style List View to the Mantine Table, allowing for column reordering and resizing.
 -  [Mantine Marquee](https://gfazioli.github.io/mantine-marquee) - A Mantine component that allows you to create a marquee effect with a list of elements.
 -  [Mantine Onboarding Tour](https://gfazioli.github.io/mantine-onboarding-tour/) - A Mantine component enables you to create a onboarding-tour effect using overlays, popovers, and onboarding tours, which enhances element visibility and interactivity.
 -  [Mantine Parallax](https://gfazioli.github.io/mantine-parallax/) - A Mantine component that allows you to create the famous Apple TV parallax effect
