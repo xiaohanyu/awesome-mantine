@@ -57,6 +57,7 @@ This project contains a curated list of awesome mantine documentations, librarie
 - [zauberstack](https://zauberstack.com/) - A React.js SaaS Starter Kit to build your MVP faster
 - [gfazioli/next-app-nextra-template](https://github.com/gfazioli/next-app-nextra-template) - Mantine + Next.js app router + Nextra 4 template (7.0+) + [Live Demo](https://next-app-nextra-template.vercel.app/)
 - [mantine-tanstack-start-template](https://github.com/icflorescu/mantine-tanstack-start-template/) - The easiest way to initialize a new project with Mantine and [TanStack Start](https://tanstack.com/start)
+- [NextStack)(https://www.nextstack.gg/) - The Ultimate Modern Next.js Starter.
 
 ## Showcase
 
@@ -69,11 +70,11 @@ This project contains a curated list of awesome mantine documentations, librarie
 -  [mantine-analytics-dashboard](https://github.com/design-sparx/mantine-analytics-dashboard) - A free, open source, Next 14, React 18 admin dashboard template created using Mantine 7
 -  [Mantine Extensions](https://mantine-extensions.vercel.app/) - Hub of extensions designed to enhance the functionality and aesthetics of the Mantine UI library
 -  [MantineHub](https://mantinehub.com/) - A tool to easily add modern, pre-configured themes (inspired by Shadcn) to your Mantine projects
+-  [Mantine Tweaker](https://mantine-tweaker.pages.dev/) - A mantine theme tweaker
 -  [moonlit](https://github.com/bgwastu/moonlit) - React music player with customizable experience
 -  [ryot](https://github.com/ignisda/ryot) - A self hosted platform for tracking various facets of your life - media, fitness etc
 -  [Titanium](https://www.titanium.dev/) - Landing page blocks using Mantine
 -  [UptimeFlare](https://github.com/lyc8503/UptimeFlare) - Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
-
 
 ### Non open source
 
@@ -86,6 +87,7 @@ This project contains a curated list of awesome mantine documentations, librarie
 - [Vouchley](https://www.vouchley.com/) - The review platform for freelancers
 - [Workout](https://workout.lol/) - The easiest way to create a workout routine
 - [Inspotype](https://inspotype.com?ref=awesome-mantine) - Create new brands in a blink
+- [InstaClock](https://instaclock.app/) - a time tracking app specifically designed for individuals
 
 ## Companies and Products Using Mantine
 
