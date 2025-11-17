@@ -30,6 +30,7 @@ This project contains a curated list of awesome mantine documentations, librarie
 -  [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/) - The table component for your data-rich Mantine applications
 -  [Mantine Flagpack](https://mantinedev.github.io/mantine-flagpack/) - 4x3 flags as React components, built of top of flagpack, tree shakable
 -  [Mantine Clock](https://gfazioli.github.io/mantine-clock/) - React Clock components and hooks for Mantine with timezone support, countdown timers, customization options, and real-time updates.
+- [Mantine Json Tree](https://gfazioli.github.io/mantine-json-tree/) - _A Mantine extension component that renders interactive JSON trees with syntax highlighting, collapsible nodes, copy-to-clipboard, and configurable expansion depth._
 -  [Mantine Flip](https://gfazioli.github.io/mantine-flip/) - A Mantine component that flips the content of the component when hovered over.
 -  [Mantine List View Table](https://gfazioli.github.io/mantine-list-view-table/) - A Mantine component adds a Finder-style List View to the Mantine Table, allowing for column reordering and resizing.
 -  [Mantine Marquee](https://gfazioli.github.io/mantine-marquee) - A Mantine component that allows you to create a marquee effect with a list of elements.
