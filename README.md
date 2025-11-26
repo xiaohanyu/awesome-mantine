@@ -44,6 +44,8 @@ This project contains a curated list of awesome mantine documentations, librarie
 -  [Mantine Scheduler](https://github.com/jadamita/mantine-scheduler) - A powerful and flexible React package that allows you to easily integrate scheduling functionality into your Mantine-based applications.
 -  [Mantine Split Pane](https://gfazioli.github.io/mantine-split-pane/) - A Mantine component that manages split panes allows users to divide and resize content areas within a layout efficiently
 -  [Mantine Text Animate](https://gfazioli.github.io/mantine-text-animate/) - A Mantine component that allows you to animate text with various effects
+-  [Mantine Window](https://gfazioli.github.io/mantine-window/) - A Mantine extension component that renders draggable, resizable floating windows with persistent state, customizable boundaries, collapsible content, and flexible control over position, size, and interaction modes
+
   
 ## Boilerplates
 
