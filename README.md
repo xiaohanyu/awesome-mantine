@@ -29,6 +29,7 @@ This project contains a curated list of awesome mantine documentations, librarie
 -  [Mantine Data Grid](https://kuechlin.github.io/mantine-data-grid/) - Another yet DataTable Grd in alpha stage
 -  [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/) - The table component for your data-rich Mantine applications
 -  [Mantine Flagpack](https://mantinedev.github.io/mantine-flagpack/) - 4x3 flags as React components, built of top of flagpack, tree shakable
+-  [Mantine Border Animate](https://gfazioli.github.io/mantine-border-animate/) - Mantine component for animated border effects with four variants (beam, glow, gradient, pulse), customizable colors, and full animation control. Ideal for creating eye-catching, dynamically styled UI elements with smooth CSS animations.
 -  [Mantine Clock](https://gfazioli.github.io/mantine-clock/) - React Clock components and hooks for Mantine with timezone support, countdown timers, customization options, and real-time updates.
 - [Mantine Json Tree](https://gfazioli.github.io/mantine-json-tree/) - _A Mantine extension component that renders interactive JSON trees with syntax highlighting, collapsible nodes, copy-to-clipboard, and configurable expansion depth._
 -  [Mantine Flip](https://gfazioli.github.io/mantine-flip/) - A Mantine component that flips the content of the component when hovered over.
