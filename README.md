@@ -26,6 +26,7 @@ This project contains a curated list of awesome mantine documentations, librarie
 ## Libraries
 
 -  [Mantine ContextMenu](https://icflorescu.github.io/mantine-contextmenu/) - The context menu for your enhanced Mantine applications
+-  [Mantine Composite Filters](https://dvlprroshan.github.io/mantine-composite-filters/) - A powerful, flexible composite filters component for Mantine with support for multiple filter types, presets, history, and advanced customization
 -  [Mantine Data Grid](https://kuechlin.github.io/mantine-data-grid/) - Another yet DataTable Grd in alpha stage
 -  [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/) - The table component for your data-rich Mantine applications
 -  [Mantine Flagpack](https://mantinedev.github.io/mantine-flagpack/) - 4x3 flags as React components, built of top of flagpack, tree shakable
@@ -46,7 +47,6 @@ This project contains a curated list of awesome mantine documentations, librarie
 -  [Mantine Split Pane](https://gfazioli.github.io/mantine-split-pane/) - A Mantine component that manages split panes allows users to divide and resize content areas within a layout efficiently
 -  [Mantine Text Animate](https://gfazioli.github.io/mantine-text-animate/) - A Mantine component that allows you to animate text with various effects
 -  [Mantine Window](https://gfazioli.github.io/mantine-window/) - A Mantine extension component that renders draggable, resizable floating windows with persistent state, customizable boundaries, collapsible content, and flexible control over position, size, and interaction modes
-
   
 ## Boilerplates
 
