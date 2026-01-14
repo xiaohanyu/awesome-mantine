@@ -36,6 +36,7 @@ This project contains a curated list of awesome mantine documentations, librarie
 -  [Mantine Flip](https://gfazioli.github.io/mantine-flip/) - A Mantine component that flips the content of the component when hovered over.
 -  [Mantine List View Table](https://gfazioli.github.io/mantine-list-view-table/) - A Mantine component adds a Finder-style List View to the Mantine Table, allowing for column reordering and resizing.
 -  [Mantine Marquee](https://gfazioli.github.io/mantine-marquee) - A Mantine component that allows you to create a marquee effect with a list of elements.
+-  [Mantine Mask](https://gfazioli.github.io/mantine-mask/) - A Mantine component that applies a cursor‑follow or static spotlight using CSS masks, revealing content inside the spotlight and softly fading the outside.
 -  [Mantine Onboarding Tour](https://gfazioli.github.io/mantine-onboarding-tour/) - A Mantine component enables you to create a onboarding-tour effect using overlays, popovers, and onboarding tours, which enhances element visibility and interactivity.
 -  [Mantine Parallax](https://gfazioli.github.io/mantine-parallax/) - A Mantine component that allows you to create the famous Apple TV parallax effect
 -  [Mantine Picker](https://gfazioli.github.io/mantine-picker/) - A Mantine component that allows you to create a picker effect with a list of elements
