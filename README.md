@@ -46,6 +46,7 @@ This project contains a curated list of awesome mantine documentations, librarie
 -  [Mantine Reflection](https://gfazioli.github.io/mantine-reflection/) - A Mantine component that adds a reflection effect to its children.
 -  [Mantine Rings Progress](https://gfazioli.github.io/mantine-rings-progress/) - A Mantine component that replicates the progress rings of Apple Watch.
 -  [Mantine Select Stepper](https://gfazioli.github.io/mantine-select-stepper) - Allows users to navigate through a list of options using increment and decrement buttons, providing an intuitive alternative to traditional dropdown selects for cycling through predefined values
+-  [Mantine Scene](https://gfazioli.github.io/mantine-scene/) - A composable decorative background system for Mantine with gradients, particles, noise, and interactive effects.
 -  [Mantine Spinner](https://gfazioli.github.io/mantine-spinner/) - A Mantine React component for an enhanced loading state.
 -  [Mantine Scheduler](https://github.com/jadamita/mantine-scheduler) - A powerful and flexible React package that allows you to easily integrate scheduling functionality into your Mantine-based applications.
 -  [Mantine Split Pane](https://gfazioli.github.io/mantine-split-pane/) - A Mantine component that manages split panes allows users to divide and resize content areas within a layout efficiently
