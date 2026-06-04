@@ -72,6 +72,7 @@ This project contains a curated list of awesome mantine documentations, librarie
 - [gfazioli/next-app-nextra-template](https://github.com/gfazioli/next-app-nextra-template) - Mantine + Next.js app router + Nextra 4 template (7.0+) + [Live Demo](https://next-app-nextra-template.vercel.app/)
 - [mantine-tanstack-start-template](https://github.com/icflorescu/mantine-tanstack-start-template/) - The easiest way to initialize a new project with Mantine and [TanStack Start](https://tanstack.com/start)
 - [NextStack)(https://www.nextstack.gg/) - The Ultimate Modern Next.js Starter.
+- [next-app-fumadocs-template](https://github.com/gfazioli/next-app-fumadocs-template) - Next.js App Router + Mantine + Fumadocs (headless) template — 100% Mantine UI, no Tailwind
 
 ## Showcase
 
