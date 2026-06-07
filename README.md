@@ -30,6 +30,7 @@ This project contains a curated list of awesome mantine documentations, librarie
 -  [Mantine Data Grid](https://kuechlin.github.io/mantine-data-grid/) - Another yet DataTable Grd in alpha stage
 -  [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/) - The table component for your data-rich Mantine applications
 -  [Mantine Flagpack](https://mantinedev.github.io/mantine-flagpack/) - 4x3 flags as React components, built of top of flagpack, tree shakable
+-  [Mantine Audio](https://gfazioli.github.io/mantine-audio/) - A Mantine-native audio player for React with waveform visualisation, live spectrum analyser, compound API, headless `useAudio` hook, scrubbable timeline with `scrubSound`, multiple-source delivery, `fallbackSrc`, and an `asBackground` preset for ambient hero tracks.
 -  [Mantine Border Animate](https://gfazioli.github.io/mantine-border-animate/) - A Mantine component for animated border effects with four variants (beam, glow, gradient, pulse), customizable colors, and full animation control. Ideal for creating eye-catching, dynamically styled UI elements with smooth CSS animations.
 -  [Mantine Clock](https://gfazioli.github.io/mantine-clock/) - React Clock components and hooks for Mantine with timezone support, countdown timers, customization options, and real-time updates.
 -  [Mantine Compare](https://gfazioli.github.io/mantine-compare/) - Mantine Compare is a responsive, accessible React container for side‑by‑side content, letting users reveal differences with a draggable, hover, or fixed split and support for vertical, horizontal, or diagonal dividers.
@@ -54,6 +55,7 @@ This project contains a curated list of awesome mantine documentations, librarie
 -  [Mantine Scheduler](https://github.com/jadamita/mantine-scheduler) - A powerful and flexible React package that allows you to easily integrate scheduling functionality into your Mantine-based applications.
 -  [Mantine Split Pane](https://gfazioli.github.io/mantine-split-pane/) - A Mantine component that manages split panes allows users to divide and resize content areas within a layout efficiently
 -  [Mantine Text Animate](https://gfazioli.github.io/mantine-text-animate/) - A Mantine component that allows you to animate text with various effects
+-  [Mantine Video](https://gfazioli.github.io/mantine-video/) - A Mantine-native video player for React with compound API, headless `useVideo` hook, four variants, Picture-in-Picture, fullscreen, captions, live timeline scrubbing, and an `asBackground` mode for hero / section backgrounds.
 -  [Mantine Window](https://gfazioli.github.io/mantine-window/) - A Mantine extension component that renders draggable, resizable floating windows with persistent state, customizable boundaries, collapsible content, and flexible control over position, size, and interaction modes
   
 ## Boilerplates
@@ -68,8 +70,8 @@ This project contains a curated list of awesome mantine documentations, librarie
 - [ship](https://github.com/paralect/ship) - A toolkit for makers to ship better products faster 🚀
 - [zauberstack](https://zauberstack.com/) - A React.js SaaS Starter Kit to build your MVP faster
 - [gfazioli/next-app-nextra-template](https://github.com/gfazioli/next-app-nextra-template) - Mantine + Next.js app router + Nextra 4 template (7.0+) + [Live Demo](https://next-app-nextra-template.vercel.app/)
+- [gfazioli/next-app-fumadocs-template](https://github.com/gfazioli/next-app-fumadocs-template) - Next.js App Router + Mantine + Fumadocs (headless) template — 100% Mantine UI, no Tailwind
 - [mantine-tanstack-start-template](https://github.com/icflorescu/mantine-tanstack-start-template/) - The easiest way to initialize a new project with Mantine and [TanStack Start](https://tanstack.com/start)
-- [NextStack)(https://www.nextstack.gg/) - The Ultimate Modern Next.js Starter.
 
 ## Showcase
 
