@@ -91,6 +91,7 @@ This project contains a curated list of awesome mantine documentations, librarie
 -  [ryot](https://github.com/ignisda/ryot) - A self hosted platform for tracking various facets of your life - media, fitness etc
 -  [Titanium](https://www.titanium.dev/) - Landing page blocks using Mantine
 -  [UptimeFlare](https://github.com/lyc8503/UptimeFlare) - Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
+-  [Diffs](https://diffs.com/) - Marketing site for @pierre/diffs, an open-source diff and code rendering library built on Shiki
 
 ### Non open source
 
@@ -104,6 +105,16 @@ This project contains a curated list of awesome mantine documentations, librarie
 - [Workout](https://workout.lol/) - The easiest way to create a workout routine
 - [Inspotype](https://inspotype.com?ref=awesome-mantine) - Create new brands in a blink
 - [InstaClock](https://instaclock.app/) - a time tracking app specifically designed for individuals
+- [Barbados Immigration Form](https://travelform.gov.bb/en/create) - Government arrival immigration form for Barbados
+- [Lancetta](https://lancetta.app/) - Menu-bar quota monitor for Codex and Claude Code on macOS
+- [Lumberjack](https://lumberjack.ilovemeerkats.world/) - Free commitment untangler to help you direct your effort without an account
+- [Minimap Studio](https://minimap.studio/) - Lightweight embeddable maps for the web
+- [Netfox](https://netfox.app/) - macOS network analyzer that explains devices and exposed services in plain English
+- [Overten AI](https://overten.ai/) - Create and edit Word, Excel, and PowerPoint files with AI from a single prompt
+- [Placar](https://placar.cv/) - Live scores, fixtures, standings, and news for Cape Verde football
+- [PrepDuel](https://prepduel.com/) - Gamified SAT, ACT, and ISEE test prep with solo practice and multiplayer modes
+- [SleekCMS](https://www.sleekcms.com/) - Done-for-you small-business websites with booking, contact forms, and SEO
+- [Spruce](https://www.buildwithspruce.com/) - Native desktop app for planning, code, and review with repo-native markdown artifacts
 
 ## Companies and Products Using Mantine
 
