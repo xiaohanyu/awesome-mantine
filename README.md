@@ -104,6 +104,14 @@ This project contains a curated list of awesome mantine documentations, librarie
 - [Workout](https://workout.lol/) - The easiest way to create a workout routine
 - [Inspotype](https://inspotype.com?ref=awesome-mantine) - Create new brands in a blink
 - [InstaClock](https://instaclock.app/) - a time tracking app specifically designed for individuals
+- [Barbados Immigration Form](https://travelform.gov.bb/en/create) - Government arrival immigration form for Barbados
+- [Lancetta](https://lancetta.app/) - Menu-bar quota monitor for Codex and Claude Code on macOS
+- [Lumberjack](https://lumberjack.ilovemeerkats.world/) - Free commitment untangler to help you direct your effort without an account
+- [Minimap Studio](https://minimap.studio/) - Lightweight embeddable maps for the web
+- [Netfox](https://netfox.app/) - macOS network analyzer that explains devices and exposed services in plain English
+- [Overten AI](https://overten.ai/) - Create and edit Word, Excel, and PowerPoint files with AI from a single prompt
+- [PrepDuel](https://prepduel.com/) - Gamified SAT, ACT, and ISEE test prep with solo practice and multiplayer modes
+- [Spruce](https://www.buildwithspruce.com/) - Native desktop app for planning, code, and review with repo-native markdown artifacts
 
 ## Companies and Products Using Mantine
 
