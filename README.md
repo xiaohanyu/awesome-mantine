@@ -88,6 +88,7 @@ This project contains a curated list of awesome mantine documentations, librarie
 -  [MantineHub](https://mantinehub.com/) - A tool to easily add modern, pre-configured themes (inspired by Shadcn) to your Mantine projects
 -  [Mantine Tweaker](https://mantine-tweaker.pages.dev/) - A mantine theme tweaker
 -  [moonlit](https://github.com/bgwastu/moonlit) - React music player with customizable experience
+-  [npmpulase](https://npmpulse.com/) - A free website to check any npm package's download history, every day, back to 2015.
 -  [ryot](https://github.com/ignisda/ryot) - A self hosted platform for tracking various facets of your life - media, fitness etc
 -  [Titanium](https://www.titanium.dev/) - Landing page blocks using Mantine
 -  [UptimeFlare](https://github.com/lyc8503/UptimeFlare) - Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
