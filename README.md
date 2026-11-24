@@ -73,6 +73,7 @@ This project contains a curated list of awesome mantine documentations, librarie
 - [zauberstack](https://zauberstack.com/) - A React.js SaaS Starter Kit to build your MVP faster
 - [gfazioli/next-app-nextra-template](https://github.com/gfazioli/next-app-nextra-template) - Mantine + Next.js app router + Nextra 4 template (7.0+) + [Live Demo](https://next-app-nextra-template.vercel.app/)
 - [gfazioli/next-app-fumadocs-template](https://github.com/gfazioli/next-app-fumadocs-template) - Next.js App Router + Mantine + Fumadocs (headless) template — 100% Mantine UI, no Tailwind
+- [gfazioli/next-app-mantine-docs-template](https://github.com/gfazioli/next-app-mantine-docs-template) - Next.js 16 App Router + Mantine 9 docs template on @next/mdx, no docs framework: Mantine-native sidebar, table of contents, Pagefind search and code blocks + [Live Demo](https://next-app-mantine-docs-template.vercel.app/)
 - [mantine-tanstack-start-template](https://github.com/icflorescu/mantine-tanstack-start-template/) - The easiest way to initialize a new project with Mantine and [TanStack Start](https://tanstack.com/start)
 - [fumandocs](https://fumandocs.next101.dev) - Create fumadocs website with Mantine as the UI layer.
 
